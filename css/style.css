@@ -1,0 +1,11 @@
+body {
+    background-image: linear-gradient( 135deg, #92FFC0 10%, #002661 100%);
+    background-repeat: no-repeat;
+}
+
+iframe {
+    position: center;
+    margin-top: 200px;
+    margin-left: 200px;
+    box-shadow: 19px 17px 23px 3px rgba(1,87,102,0.61);
+}
