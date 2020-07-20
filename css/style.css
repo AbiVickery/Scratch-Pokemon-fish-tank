@@ -9,3 +9,10 @@ iframe {
     margin-left: 200px;
     box-shadow: 19px 17px 23px 3px rgba(1,87,102,0.61);
 }
+
+iframe {
+    position: center;
+    margin-top: 200px;
+    margin-left: 400px;
+    box-shadow: 19px 17px 23px 3px rgba(1,87,102,0.61);
+}
